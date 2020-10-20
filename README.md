@@ -1,6 +1,5 @@
-# GPS_TO_KML
+# GPS_TO_KML - October 2020
 Methods to generate KMLs based on GPS data input
-October 2020
 
 This document contains information specific to operating the GPS Tracker and 
 viewing in Google Earth.
